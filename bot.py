@@ -6,7 +6,7 @@ from concurrent.futures import ThreadPoolExecutor
 from discord.ext import commands
 from discord.utils import get
 from random import choice, randint, shuffle
-token = "MTAwNjc2NDE3OTA3NzczNDQ2MQ.G3Zrm9.lbCnZieZ0h-nT5hfRGcux5c4NhRNsk_L4aDBRI"
+token = "MTAwNjc2NDE3OTA3NzczNDQ2MQ.Gm94BK.nHlQiMKGQeS5DTY_7iFOdQF_MQRYA0pESv-gHc"
 prefix = "!"
 intents = discord.Intents.all()
 intents.messages = True
